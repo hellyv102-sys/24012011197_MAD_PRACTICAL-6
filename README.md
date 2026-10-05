@@ -384,9 +384,14 @@ Frame by Frame Animation
 
 # 10. Output Screenshot
 
-Add your Android Studio emulator/device output screenshot below.
+### Output Files
 
-![Practical-6 Output Screenshot](output_screenshot.png)
+The practical uses the following image files:
+
+- `alarm1.jpg`
+- `logo.png`
+
+![Output files showing alarm1.jpg and logo.png](output_screenshot.png)
 
 **Output:** The application first displays the animated splash screen and then opens the main activity containing the frame-by-frame animation.
 
