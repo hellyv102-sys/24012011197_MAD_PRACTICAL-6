@@ -384,9 +384,19 @@ Frame by Frame Animation
 
 # 10. Output
 
+### Alarm Animation
+
+![Alarm Animation](alarm1.jpg)
+
+### UVPCE Logo
+
+![UVPCE Logo](logo.png)
+
+### Final Output Screenshot
+
 ![Practical-6 Output](output.png)
 
-**Output:** The application displays the required files `alarm1.jpg` and `logo.png` as part of the practical output.
+**Output:** The application demonstrates the required frame-by-frame animation using `alarm1.jpg` and the logo image `logo.png`.
 
 # Conclusion
 
