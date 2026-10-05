@@ -382,20 +382,11 @@ Frame by Frame Animation
 
 ---
 
-# 10. Output Screenshot
+# 10. Output
 
-### Output Files
+![Practical-6 Output](output.png)
 
-The practical uses the following image files:
-
-- `alarm1.jpg`
-- `logo.png`
-
-![Output files showing alarm1.jpg and logo.png](output_screenshot.png)
-
-**Output:** The application first displays the animated splash screen and then opens the main activity containing the frame-by-frame animation.
-
----
+**Output:** The application displays the required files `alarm1.jpg` and `logo.png` as part of the practical output.
 
 # Conclusion
 
